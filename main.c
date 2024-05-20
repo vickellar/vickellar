@@ -1,6 +1,7 @@
 ⁷// parallel programming for calculatiing pi 
+// this program does not run on normal compilers but there are some additions to be done on your compiler linkers... so that so of the function could work 
 #include <stdio.h>
-#include <omp.h>
+#include <omp.h> // 
 
 int main() {
     int n = 10000; // Number of terms in the Leibniz series
