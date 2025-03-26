@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vickellar
-- 👀 I’m interested in coding (java, python, c , c#, js
+- 👀 I’m interested in coding (java, python, c, js
 - 🌱 I’m currently studying computer engineering degree
 - 💞️ I’m looking to collaborate on different codes from languages a gave above 
 - 📫 your to reach me on victornjiswe.01@gmail.com 
